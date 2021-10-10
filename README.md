@@ -1,2 +1,1 @@
-# tindog
-responsive landing page (mobile friendly)
+TinDog Starting Files
